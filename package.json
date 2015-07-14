@@ -1,0 +1,23 @@
+{
+  "name": "s.q",
+  "version": "1.0.0",
+  "description": "S.q - q.js",
+  "main": "s.q.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macton/S.q.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macton/S.q/issues"
+  },
+  "homepage": "https://github.com/macton/S.q#readme",
+  "dependencies": {
+    "q": "kriskowal/q#v1",
+    "s": "macton/S"
+  }
+}
